@@ -9,6 +9,7 @@
 </a>
 
 ## **Linguagens e Ferramentas:**  
+<code><img height="30" src="https://www.r-project.org/logo/Rlogo.svg"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/53862244/123355017-283ff900-d53b-11eb-862f-d36918b21976.png"></code>
 <code><img height="30" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png"></code>

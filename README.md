@@ -9,6 +9,7 @@
 </a>
 
 ## **Linguagens e Ferramentas:**  
+<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APHP-logo.svg&psig=AOvVaw0nUtPj_JkVjJRnOg_dNdpO&ust=1629809211433000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPjnuMyWx_ICFQAAAAAdAAAAABAJ"></code>
 <code><img height="30" src="https://www.r-project.org/logo/Rlogo.svg"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/53862244/123355017-283ff900-d53b-11eb-862f-d36918b21976.png"></code>

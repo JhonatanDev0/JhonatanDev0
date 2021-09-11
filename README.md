@@ -15,7 +15,7 @@
 <code><img height="30" src="https://user-images.githubusercontent.com/53862244/123355017-283ff900-d53b-11eb-862f-d36918b21976.png"></code>
 <code><img height="30" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATypescript_logo_2020.svg&psig=AOvVaw0DlvNbLxKe9_wJKvIBoKP9&ust=1631405131682000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICww-3P9fICFQAAAAAdAAAAABAD"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>

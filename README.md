@@ -10,3 +10,4 @@
 
 ## **Linguagens e Ferramentas:**  
 <code><img height="30" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png?20210416091439"></code>

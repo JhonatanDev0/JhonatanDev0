@@ -11,7 +11,7 @@
 ## Conecte-se comigo
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=407BFF&color:FFF)](mailto:jhonatandev0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=407BFF&color:FFF)](https://www.linkedin.com/in/jhonatandev0/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=407BFF&color:FFF)](https://www.linkedin.com/in/jhonatandev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=407BFF&color:FFF)](https://www.instagram.com/lapplace/)
 
 ## Habilidades

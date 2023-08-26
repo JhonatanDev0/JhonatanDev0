@@ -20,6 +20,8 @@
 ![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=R)
 ![PowerBI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=PowerBI)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB)
+![Airflow](https://img.shields.io/badge/AirFlow-000?style=for-the-badge&logo=ApacheAirFlow)
+![Hadoop](https://img.shields.io/badge/Hadoop-000?style=for-the-badge&logo=ApacheHadoop)
 
 <h3 align="left">GitHub Stats</h3>
 

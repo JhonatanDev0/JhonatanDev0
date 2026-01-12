@@ -22,23 +22,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB)
 ![Airflow](https://img.shields.io/badge/AirFlow-000?style=for-the-badge&logo=ApacheAirFlow)
 ![Hadoop](https://img.shields.io/badge/Hadoop-000?style=for-the-badge&logo=ApacheHadoop)
-
-<h3 align="left">GitHub Stats</h3>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonatandev0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatandev0&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<br>
-
-<details align="left">
-  <summary></summary> 
- 
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
- 
-  <div align="right">Made by <a href="https://github.com/jhonatandev0">EA</a>.</div>
-
-</details>

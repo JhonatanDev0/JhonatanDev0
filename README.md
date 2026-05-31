@@ -6,7 +6,7 @@
     <span>Jhonatan Oliveira</span>
 </h1>
 
-<p align="justify">Analista e Desenvolvedor de Sistemas, escritor nas horas vagas e apaixonado pela gestão de dados. Procuro sempre demonstrar o meu melhor, dedicando total empenho e dedicação ao meu trabalho.
+<p align="justify">Analista, Engenheiro e Cientista de Dados apaixonado por transformar dados em informação e informação em decisões. Experiência em ETL, modelagem de dados, automação de processos, análise estatística e desenvolvimento de soluções orientadas a dados. Sempre buscando aprender novas tecnologias e construir projetos que gerem impacto real.
 
 ## Conecte-se comigo
 
